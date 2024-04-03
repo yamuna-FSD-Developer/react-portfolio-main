@@ -1,0 +1,25 @@
+[
+  {
+    "role": "MERN Fullstack Developer",
+    "organisation": "GUVI Geek Networks, IITM Research Park",
+    "startDate": "Nov, 2023",
+    "endDate":"Present",
+
+    "experiences": ["Completion of MERN Fullstack Developer Course"]
+  },
+  {
+    "role": "Senior Process Associate",
+    "organisation": "Centaur Billing",
+    "startDate": "Oct, 2022",
+    "endDate": "Oct, 2023",
+    "experiences": ["Worked on Claims Escalation Team", "Handling Escalated and Denied claims"]
+  },
+  
+  {
+    "role": "Client Partner",
+    "organisation": "Access Healthcare",
+    "startDate": "Sept, 2020",
+    "endDate": "Sept, 2022",
+    "experiences": ["Worked on Claims Escalation Team", "Handling Escalated and Denied claims"]
+  }
+]
