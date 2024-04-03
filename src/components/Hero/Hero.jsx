@@ -7,7 +7,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Yamuna</h1>
+        <h3 className={styles.title}>Hi, I'm Yamuna</h3>
         <p className={styles.description}>
         I'm a full-stack developer, I specialize in crafting modern, user-friendly interfaces with React on the front end, coupled with powerful and efficient backend solutions using Node.js. Whether you're aiming to develop dynamic single-page applications, interactive web portals, or complex enterprise systems, I have the skills and knowledge to bring your vision to life.
         </p>

@@ -22,7 +22,7 @@
   margin-top: 14px;
 }
 
-/* .skills {
+.skills {
   width: 45%;
   display: flex;
   flex-wrap: wrap;
@@ -48,13 +48,13 @@
 
 .skillImageContainer img {
   width: 75px;
-} */
+} 
 
-/* .skill p {
+ .skill p {
   font-size: 25px;
   font-family: var(--font-roboto);
   font-weight: 500;
-} */
+}
 
 .details {
   width: 45%;
