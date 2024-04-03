@@ -1,0 +1,24 @@
+[
+    {
+      "course": "MERN Fullstack Developer",
+      "institute": "GUVI Geek Networks, IITM Research Park",
+      "startDate": "Nov, 2023",
+      "endDate":"Present"
+     },
+    {
+        "course": "DOT NET Developer",
+        "institute": "Besant Technologies",
+        "startDate": "May, 2019",
+        "endDate":"Jul, 2019"
+    },
+    
+    {
+      "course": "Advance Diploma in Java Programming",
+      "institute": "CSC",
+      "startDate": "May, 2018",
+      "endDate": "Jul, 2018"
+      
+    }
+  
+]
+  
